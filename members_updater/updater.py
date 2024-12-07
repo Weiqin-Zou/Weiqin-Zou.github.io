@@ -115,7 +115,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
         for line in lines_new:
             output.insert(insert_line_num, line)
             insert_line_num += 1
-        insert_line_num -= 4
+        insert_line_num -= 5
 
         insert_line_num_cn = len(output_cn) + 1
         output_cn.insert(insert_line_num_cn, '\n')
@@ -123,7 +123,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
         for line in lines_new_cn:
             output_cn.insert(insert_line_num_cn, line)
             insert_line_num_cn += 1
-        insert_line_num_cn -= 4
+        insert_line_num_cn -= 5
 
     # 插入member信息
     insert_line_num += 2
