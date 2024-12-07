@@ -1,10 +1,7 @@
 import pypinyin
 
-import argparse
-import mimetypes
-import sys
-import os
-import fileinput
+import argparse, mimetypes, sys, os, fileinput
+
 
 parser = argparse.ArgumentParser(description='Import a new member to the page')
 parser.add_argument('year', type=str, help="year of the class")
@@ -13,6 +10,7 @@ parser.add_argument('photo_path', type=str, help="file path of the member's phot
 parser.add_argument('-w', '--website', type=str, help="personal homepage address")
 args = parser.parse_args()
 script_path = sys.path[0]
+
 
 def get_eng_name(name: str) -> str:
     """
@@ -143,6 +141,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
         file.write(''.join([str(s) for s in output]))
     with open(script_path + "/../_pages_cn/about_cn.md", "w+", encoding="utf-8") as file:
         file.write(''.join([str(s) for s in output_cn]))
+
 
 if __name__ == '__main__':
     if if_photo_supported(args.photo_path) is False:
