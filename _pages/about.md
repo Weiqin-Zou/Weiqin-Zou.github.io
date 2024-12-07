@@ -215,67 +215,67 @@ I am actively recruiting (under) graduate students. Please contact me if you are
 </style>
 # 🧑‍🎓 团队成员
 
-## 2021级
+## Class of 2021
 <div class="bootstrap">
   <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/cbt.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://cbting.github.io/" target="_blank">陈冰婷/Bingting Chen</a>
+        <a href="https://cbting.github.io/" target="_blank">Bingting Chen/陈冰婷</a>
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/lwj2.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://blue-lwj.github.io/" target="_blank">刘文杰/Wenjie Liu</a>
+        <a href="https://blue-lwj.github.io/" target="_blank">Wenjie Liu/刘文杰</a>
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/zwd.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://anniewzd.github.io/" target="_blank">王昭丹/Zhaodan Wang</a>
+        <a href="https://anniewzd.github.io/" target="_blank">Zhaodan Wang/王昭丹</a>
       </div>
     </div>
   </div>
 </div>
 
-## 2022级
+## Class of 2022
 <div class="bootstrap">
   <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/cby.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://caiby0927.github.io" target="_blank">蔡碧瑜/Biyu Cai</a>
+        <a href="https://caiby0927.github.io" target="_blank">Biyu Cai/蔡碧瑜</a>
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/cxh2.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://chenxiaohan0125.github.io" target="_blank">陈笑涵/Xiaohan Chen</a>
+        <a href="https://chenxiaohan0125.github.io" target="_blank">Xiaohan Chen/陈笑涵</a>
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/mqs.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://mengqianshuang.github.io" target="_blank">孟千爽/Qianshuang Meng</a>
+        <a href="https://mengqianshuang.github.io" target="_blank">Qianshuang Meng/孟千爽</a>
       </div>
     </div>
   </div>
 </div>
 
-## 2023级
+## Class of 2023
 <div class="bootstrap">
   <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/xh2.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://lyraxv.github.io" target="_blank">许慧/Hui Xu</a>
+        <a href="https://lyraxv.github.io" target="_blank">Hui Xu/许慧</a>
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
       <div style="text-align: left;">
-        <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">张国威/Guowei Zhang</a>
+        <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">Guowei Zhang/张国威</a>
       </div>
     </div>
   </div>
