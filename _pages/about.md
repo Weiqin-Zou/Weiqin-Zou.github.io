@@ -291,7 +291,3 @@ My hobbies are reading books (e.g., literature novels and history books), watchi
 I am always trying to figure out what I want, what life I want to lead, and still not getting the answer, haha.
 
 Always on the way...
-
-
-
-<span class='anchor' id='students'></span>
