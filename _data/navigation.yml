@@ -1,0 +1,42 @@
+# main page links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Education & Employment"
+    url: "/#education-and-employment"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Academic Service"
+    url: "/#academic-service"
+
+  - title: "Members"
+    url: "/#members"
+
+  - title: "More About Me"
+    url: "/#more-about-me"
+
+# main cn page links
+main_cn:
+  - title: "关于我"
+    url: "/zh-cn/#about-me"
+
+  - title: "教育与工作经历"
+    url: "/zh-cn/#education-and-employment"
+
+  - title: "论文列表"
+    url: "/zh-cn/#publications"
+
+  - title: "获奖情况"
+    url: "/zh-cn/#honors-and-awards"
+
+  - title: "学术服务"
+    url: "/zh-cn/#academic-service"
+
+  - title: "团队成员"
+    url: "/zh-cn/#members"
