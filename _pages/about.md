@@ -213,7 +213,7 @@ I am actively recruiting (under) graduate students. Please contact me if you are
     background-size: cover;
   }
 </style>
-# 🧑‍🎓 团队成员
+# 🧑‍🎓 Members
 
 ## Class of 2021
 <div class="bootstrap">
