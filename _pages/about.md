@@ -27,9 +27,9 @@ I am actively recruiting (under) graduate students. Please contact me if you are
 
 - *03/2020 - Now*, <a href="http://nuaa.edu.cn/"><img class="svg" src="/images/logos/NUAA_logo.svg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, Associate Professor
 - *09/2017 - 09/2018*, <a href="https://www.smu.edu.sg/"><img class="svg" src="/images/logos/SMU_logo.svg" width="60pt"></a> Singapore Management University, Visting Student Supported by CSC, Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
-- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> Nanjing University, Ph.D, Software Engineering, Advisors: [Baowen Xu](https://cs.nju.edu.cn/58/17/c2639a153623/page.htm), [Zhenyu Chen](http://www.iselab.cn/faculty/ZhenyuChen)
+- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> Nanjing University, Ph.D, Software Engineering, Advisors: [Baowen Xu](https://cs.nju.edu.cn/xubaowen/), [Zhenyu Chen](https://software.nju.edu.cn/zychen/)
 - *07/2013 - 07/2015*, <a href="https://e.jxust.edu.cn/"><img class="svg" src="/images/logos/JXUST_logo.svg" width="20pt"></a> JiangXi University of Science and Technology, Assistant Professor
-- *09/2010 - 06/2013*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Master, Computer Science and Technology, Advisors: [Yan Hu](http://faculty.dlut.edu.cn/huyan/en/index.htm), [He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
+- *09/2010 - 06/2013*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Master, Computer Science and Technology, Advisors: [Yan Hu](http://oscar-lab.org/people/~yhu/), [He Jiang](https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm)
 - *09/2006 - 06/2010*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Bachelor, Software Engineering (Intensive Japanese)
 
 

@@ -27,9 +27,9 @@ redirect_from:
 
 - *03/2020 - 至今*, <a href="http://nuaa.edu.cn/"><img class="svg" src="/images/logos/NUAA_logo.svg" width="20pt"></a> 南京航空航天大学，副教授
 - *09/2017 - 09/2018*, <a href="https://cn.masters.smu.edu.sg/"><img class="svg" src="/images/logos/SMU_logo.svg" width="60pt"></a> 新加坡管理大学, 联合培养博士生, 导师: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
-- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> 南京大学, 博士，软件工程, 导师: [徐宝文](https://cs.nju.edu.cn/58/17/c2639a153623/page.htm), [陈振宇](http://www.iselab.cn/faculty/ZhenyuChen)
+- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> 南京大学, 博士，软件工程, 导师: [徐宝文](https://cs.nju.edu.cn/xubaowen/bwxu-zh/), [陈振宇](https://software.nju.edu.cn/zychen/)
 - *07/2013 - 07/2015*, <a href="https://www.jxust.edu.cn/"><img class="svg" src="/images/logos/JXUST_logo.svg" width="20pt"></a> 江西理工大学，助教
-- *09/2010 - 06/2013*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，硕士，计算机应用技术, 导师: [胡燕](http://faculty.dlut.edu.cn/huyan/en/index.htm), [江贺](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
+- *09/2010 - 06/2013*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，硕士，计算机应用技术, 导师: [胡燕](http://oscar-lab.org/people/~yhu/index_cn.html), [江贺](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
 - *09/2006 - 06/2010*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，学士，软件工程(日语强化)
 
 
