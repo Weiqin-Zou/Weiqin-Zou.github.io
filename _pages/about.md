@@ -281,6 +281,18 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
   </div>
 </div>
 
+## Class of 2025
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/sby.jpg);"></div>
+      <div style="text-align: left;">
+        <a href="https://github.com/shinyashen" target="_blank">Boyang Shen/沈博洋</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 <span class='anchor' id='more-about-me'></span>

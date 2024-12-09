@@ -281,6 +281,18 @@ redirect_from:
   </div>
 </div>
 
+## 2025级
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/sby.jpg);"></div>
+      <div style="text-align: left;">
+        <a href="https://github.com/shinyashen" target="_blank">沈博洋/Boyang Shen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 <span class='anchor' id='more-about-me'></span>
