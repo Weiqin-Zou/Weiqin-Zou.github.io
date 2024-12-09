@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 My research focuses on mining softare repositories (e.g., bug reports, GitHub data) to uncover interesting and actionable information to help improve software quality and developer productivity. I have employed and developed techniques including natural language processing, machine learning, and program analysis to transform passive software engineering data into new insights and automated tools like bug triaging and bug localization tools.
 
-I am actively recruiting (under) graduate students. Please contact me if you are interested in mining software repositories, empirical software engineering, and artificial intelligence for software engineering.
+I am actively recruiting graduate students, typically enrolling 2-3 each year. Please contact me if you are interested in mining software repositories, empirical software engineering, and artificial intelligence for software engineering.
 
 
 
