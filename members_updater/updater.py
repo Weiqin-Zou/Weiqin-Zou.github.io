@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser(description='Import a new member to the page')
 parser.add_argument('year', type=str, help="year of the class")
 parser.add_argument('name', type=str, help="Chinese name of the member")
 parser.add_argument('photo_path', type=str, help="file path of the member's photo")
-parser.add_argument('target_photo_filename', type=str, help="copied photo's filename")
+parser.add_argument('-n', '--filename', type=str, help="copied photo's filename, extension name(e.g. .jpg/.png) not included")
 parser.add_argument('-w', '--website', type=str, help="personal homepage address")
 args = parser.parse_args()
 script_path = sys.path[0]
@@ -56,7 +56,13 @@ def insert_member(year: str, name: str, website: str):
     插入新成员信息(写入两个页面的对应内容中，复制照片)
     """
     # 复制照片文件
-    with open(args.photo_path, "rb") as src, open(script_path + "/../images/members/" + args.target_photo_filename, "wb") as dst:
+    file_ext = os.path.splitext(args.photo_path)[1]
+    if args.filename is not None:
+        file_base_name = args.filename
+    else:
+        file_base_name = os.path.splitext(args.photo_path.split('\\')[-1].split('/')[-1])[0]
+    file_full_name = file_base_name + file_ext
+    with open(args.photo_path, "rb") as src, open(script_path + "/../images/members/" + file_full_name, "wb") as dst:
         data = src.read()
         dst.write(data)
 
