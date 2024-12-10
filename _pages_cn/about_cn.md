@@ -249,7 +249,7 @@ redirect_from:
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/cxh2.jpg);"></div>
+      <div class="image_box" style="background-image: url(/images/members/cxh.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://chenxiaohan0125.github.io" target="_blank">陈笑涵/Xiaohan Chen</a>
       </div>
@@ -276,6 +276,24 @@ redirect_from:
       <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
       <div style="text-align: left;">
         <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">张国威/Guowei Zhang</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## 2024级
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wr.jpg);"></div>
+      <div style="text-align: left;">
+        王瑞/Rui Wang
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wmj.jpg);"></div>
+      <div style="text-align: left;">
+        王梦娇/Mengjiao Wang
       </div>
     </div>
   </div>

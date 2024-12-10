@@ -249,7 +249,7 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/cxh2.jpg);"></div>
+      <div class="image_box" style="background-image: url(/images/members/cxh.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://chenxiaohan0125.github.io" target="_blank">Xiaohan Chen/陈笑涵</a>
       </div>
@@ -276,6 +276,24 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
       <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
       <div style="text-align: left;">
         <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">Guowei Zhang/张国威</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Class of 2024
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wr.jpg);"></div>
+      <div style="text-align: left;">
+        Rui Wang/王瑞
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wmj.jpg);"></div>
+      <div style="text-align: left;">
+        Mengjiao Wang/王梦娇
       </div>
     </div>
   </div>
