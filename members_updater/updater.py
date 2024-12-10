@@ -37,13 +37,6 @@ def if_photo_supported(photo_path: str) -> bool:
     return mimetypes.guess_type(photo_path)[0] in supported_format
 
 
-def if_silence() -> bool:
-    """
-    判断是否为静默模式
-    """
-    return args.silence
-
-
 def if_script_moved() -> bool:
     """
     判断该脚本有没有被移动位置(操作文件依赖于原项目的相对路径)
