@@ -101,7 +101,7 @@ def insert_member(year: str, name: str, website: str):
 
     with fileinput.input(script_path + "/../_pages_cn/about_cn.md", encoding="utf-8") as f:
         for line in f:
-            if line.replace('\n', '') == f'## {year}级' or line.replace('\n', '') == "<span class='anchor' id='more-about-me'></span>":
+            if line.replace('\n', '') == f'## {year}级' or (line.replace('\n', '') == "<span class='anchor' id='more-about-me'></span>" and year_not_exist):
                 insert_line_num_cn = fileinput.lineno()
             output_cn.append(line)
 
