@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 我的研究方向主要为软件仓库挖掘（如缺陷报告、GitHub平台数据）。研究目的是为了从软件数据中挖掘有趣和有指导作用的信息帮助提升软件质量和开发效率。目前，通过利用或开发一些包括自然语言处理、机器学习和程序分析的技术，我们已经从各种软件仓库数据中获得了一些对软件工程实践的新视角，并开发了一些如缺陷分派和定位相关的软件技术。
 
-我正在招收硕士生。 如果你对软件数据挖掘、经验软件工程、智能化软件工程等感兴趣，请通过邮件与我联系。此外，也非常欢迎积极主动的本科生加入。
+我正在招收硕士生（计划每年招收2-3名）。如果你对软件数据挖掘、经验软件工程、智能化软件工程等感兴趣，请通过邮件与我联系。此外，也非常欢迎积极主动的本科生加入。
 
 
 
@@ -27,9 +27,9 @@ redirect_from:
 
 - *03/2020 - 至今*, <a href="http://nuaa.edu.cn/"><img class="svg" src="/images/logos/NUAA_logo.svg" width="20pt"></a> 南京航空航天大学，副教授
 - *09/2017 - 09/2018*, <a href="https://cn.masters.smu.edu.sg/"><img class="svg" src="/images/logos/SMU_logo.svg" width="60pt"></a> 新加坡管理大学, 联合培养博士生, 导师: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
-- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> 南京大学, 博士，软件工程, 导师: [徐宝文](https://cs.nju.edu.cn/58/17/c2639a153623/page.htm), [陈振宇](http://www.iselab.cn/faculty/ZhenyuChen)
+- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> 南京大学, 博士，软件工程, 导师: [徐宝文](https://cs.nju.edu.cn/xubaowen/bwxu-zh/), [陈振宇](https://software.nju.edu.cn/zychen/)
 - *07/2013 - 07/2015*, <a href="https://www.jxust.edu.cn/"><img class="svg" src="/images/logos/JXUST_logo.svg" width="20pt"></a> 江西理工大学，助教
-- *09/2010 - 06/2013*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，硕士，计算机应用技术, 导师: [胡燕](http://faculty.dlut.edu.cn/huyan/en/index.htm), [江贺](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
+- *09/2010 - 06/2013*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，硕士，计算机应用技术, 导师: [胡燕](http://oscar-lab.org/people/~yhu/index_cn.html), [江贺](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
 - *09/2006 - 06/2010*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> 大连理工大学，学士，软件工程(日语强化)
 
 
@@ -249,7 +249,7 @@ redirect_from:
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/cxh2.jpg);"></div>
+      <div class="image_box" style="background-image: url(/images/members/cxh.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://chenxiaohan0125.github.io" target="_blank">陈笑涵/Xiaohan Chen</a>
       </div>
@@ -280,3 +280,44 @@ redirect_from:
     </div>
   </div>
 </div>
+
+## 2024级
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wr.jpg);"></div>
+      <div style="text-align: left;">
+        王瑞/Rui Wang
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wmj.jpg);"></div>
+      <div style="text-align: left;">
+        王梦娇/Mengjiao Wang
+      </div>
+    </div>
+  </div>
+</div>
+
+## 2025级
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/sby.jpg);"></div>
+      <div style="text-align: left;">
+        <a href="https://github.com/shinyashen" target="_blank">沈博洋/Boyang Shen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<span class='anchor' id='more-about-me'></span>
+# 💬 关于我
+
+我的兴趣爱好有读书(读一些文学小说或历史类书籍)、看动漫(主要是日本动漫)、游泳、旅游等等。
+
+我一直在思考我想要什么、想过什么样的生活，但至今仍然没有得到答案，哈哈。
+
+我将一直在前进路上...

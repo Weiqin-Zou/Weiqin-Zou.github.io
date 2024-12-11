@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 My research focuses on mining softare repositories (e.g., bug reports, GitHub data) to uncover interesting and actionable information to help improve software quality and developer productivity. I have employed and developed techniques including natural language processing, machine learning, and program analysis to transform passive software engineering data into new insights and automated tools like bug triaging and bug localization tools.
 
-I am actively recruiting (under) graduate students. Please contact me if you are interested in mining software repositories, empirical software engineering, and artificial intelligence for software engineering.
+I am actively recruiting graduate students, typically enrolling 2-3 each year. Please contact me if you are interested in mining software repositories, empirical software engineering, and artificial intelligence for software engineering.
 
 
 
@@ -27,9 +27,9 @@ I am actively recruiting (under) graduate students. Please contact me if you are
 
 - *03/2020 - Now*, <a href="http://nuaa.edu.cn/"><img class="svg" src="/images/logos/NUAA_logo.svg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, Associate Professor
 - *09/2017 - 09/2018*, <a href="https://www.smu.edu.sg/"><img class="svg" src="/images/logos/SMU_logo.svg" width="60pt"></a> Singapore Management University, Visting Student Supported by CSC, Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
-- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> Nanjing University, Ph.D, Software Engineering, Advisors: [Baowen Xu](https://cs.nju.edu.cn/58/17/c2639a153623/page.htm), [Zhenyu Chen](http://www.iselab.cn/faculty/ZhenyuChen)
+- *09/2015 - 12/2019*, <a href="https://www.nju.edu.cn/en/"><img class="svg" src="/images/logos/NJU_logo.svg" width="20pt"></a> Nanjing University, Ph.D, Software Engineering, Advisors: [Baowen Xu](https://cs.nju.edu.cn/xubaowen/), [Zhenyu Chen](https://software.nju.edu.cn/zychen/)
 - *07/2013 - 07/2015*, <a href="https://e.jxust.edu.cn/"><img class="svg" src="/images/logos/JXUST_logo.svg" width="20pt"></a> JiangXi University of Science and Technology, Assistant Professor
-- *09/2010 - 06/2013*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Master, Computer Science and Technology, Advisors: [Yan Hu](http://faculty.dlut.edu.cn/huyan/en/index.htm), [He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index/725225/list/index.htm)
+- *09/2010 - 06/2013*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Master, Computer Science and Technology, Advisors: [Yan Hu](http://oscar-lab.org/people/~yhu/), [He Jiang](https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm)
 - *09/2006 - 06/2010*, <a href="https://en.dlut.edu.cn/"><img class="svg" src="/images/logos/DLUT_logo.svg" width="20pt"></a> Dalian University of Technology, Bachelor, Software Engineering (Intensive Japanese)
 
 
@@ -213,7 +213,7 @@ I am actively recruiting (under) graduate students. Please contact me if you are
     background-size: cover;
   }
 </style>
-# 🧑‍🎓 团队成员
+# 🧑‍🎓 Members
 
 ## Class of 2021
 <div class="bootstrap">
@@ -249,7 +249,7 @@ I am actively recruiting (under) graduate students. Please contact me if you are
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/cxh2.jpg);"></div>
+      <div class="image_box" style="background-image: url(/images/members/cxh.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://chenxiaohan0125.github.io" target="_blank">Xiaohan Chen/陈笑涵</a>
       </div>
@@ -276,6 +276,36 @@ I am actively recruiting (under) graduate students. Please contact me if you are
       <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
       <div style="text-align: left;">
         <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">Guowei Zhang/张国威</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Class of 2024
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wr.jpg);"></div>
+      <div style="text-align: left;">
+        Rui Wang/王瑞
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/wmj.jpg);"></div>
+      <div style="text-align: left;">
+        Mengjiao Wang/王梦娇
+      </div>
+    </div>
+  </div>
+</div>
+
+## Class of 2025
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/sby.jpg);"></div>
+      <div style="text-align: left;">
+        <a href="https://github.com/shinyashen" target="_blank">Boyang Shen/沈博洋</a>
       </div>
     </div>
   </div>

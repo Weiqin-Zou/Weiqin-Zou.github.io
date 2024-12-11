@@ -7,6 +7,7 @@ parser = argparse.ArgumentParser(description='Import a new member to the page')
 parser.add_argument('year', type=str, help="year of the class")
 parser.add_argument('name', type=str, help="Chinese name of the member")
 parser.add_argument('photo_path', type=str, help="file path of the member's photo")
+parser.add_argument('-n', '--filename', type=str, help="copied photo's filename, extension name(e.g. .jpg/.png) not included")
 parser.add_argument('-w', '--website', type=str, help="personal homepage address")
 args = parser.parse_args()
 script_path = sys.path[0]
@@ -36,13 +37,6 @@ def if_photo_supported(photo_path: str) -> bool:
     return mimetypes.guess_type(photo_path)[0] in supported_format
 
 
-def if_silence() -> bool:
-    """
-    判断是否为静默模式
-    """
-    return args.silence
-
-
 def if_script_moved() -> bool:
     """
     判断该脚本有没有被移动位置(操作文件依赖于原项目的相对路径)
@@ -50,19 +44,25 @@ def if_script_moved() -> bool:
     return not(os.path.exists(script_path + "/../_pages/about.md") and os.path.exists(script_path + "/../_pages_cn/about_cn.md"))
 
 
-def insert_member(year: str, name: str, photo_file_name: str, website: str):
+def insert_member(year: str, name: str, website: str):
     """
     插入新成员信息(写入两个页面的对应内容中，复制照片)
     """
     # 复制照片文件
-    with open(args.photo_path, "rb") as src, open(script_path + "/../images/members/" + photo_file_name, "wb") as dst:
+    file_ext = os.path.splitext(args.photo_path)[1]
+    if args.filename is not None:
+        file_base_name = args.filename
+    else:
+        file_base_name = os.path.splitext(args.photo_path.split('\\')[-1].split('/')[-1])[0]
+    file_full_name = file_base_name + file_ext
+    with open(args.photo_path, "rb") as src, open(script_path + "/../images/members/" + file_full_name, "wb") as dst:
         data = src.read()
         dst.write(data)
 
     # 构造新插入的行
     eng_name = get_eng_name(name)
     line1 = '    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">'
-    line2 = f'      <div class="image_box" style="background-image: url(/images/members/{photo_file_name});"></div>'
+    line2 = f'      <div class="image_box" style="background-image: url(/images/members/{args.target_photo_filename});"></div>'
     line3 = '      <div style="text-align: left;">'
     line4 = f'{eng_name}/{name}'
     line4_cn = f'{name}/{eng_name}'
@@ -94,7 +94,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
 
     with fileinput.input(script_path + "/../_pages_cn/about_cn.md", encoding="utf-8") as f:
         for line in f:
-            if line.replace('\n', '') == f'## {year}级':
+            if line.replace('\n', '') == f'## {year}级' or (line.replace('\n', '') == "<span class='anchor' id='more-about-me'></span>" and year_not_exist):
                 insert_line_num_cn = fileinput.lineno()
             output_cn.append(line)
 
@@ -108,7 +108,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
         line4_new = '  </div>'
         line5_new = '</div>'
         lines_new = [line1_new + '\n', line2_new + '\n', line3_new + '\n', line4_new + '\n', line5_new + '\n', '\n']
-        lines_new_cn = [line1_new_cn + '\n', line2_new + '\n', line3_new + '\n', line4_new + '\n', line5_new + '\n']
+        lines_new_cn = [line1_new_cn + '\n', line2_new + '\n', line3_new + '\n', line4_new + '\n', line5_new + '\n', '\n']
 
         # 插入新的年份信息
         insert_line_num -= 3
@@ -117,9 +117,7 @@ def insert_member(year: str, name: str, photo_file_name: str, website: str):
             insert_line_num += 1
         insert_line_num -= 5
 
-        insert_line_num_cn = len(output_cn) + 1
-        output_cn.insert(insert_line_num_cn, '\n')
-        insert_line_num_cn += 1
+        insert_line_num_cn -= 3
         for line in lines_new_cn:
             output_cn.insert(insert_line_num_cn, line)
             insert_line_num_cn += 1
@@ -152,4 +150,4 @@ if __name__ == '__main__':
         print("error: Script should not be moved! Please move it back!")
         sys.exit(1)
 
-    insert_member(args.year, args.name, os.path.basename(args.photo_path), args.website)
+    insert_member(args.year, args.name, args.website)
