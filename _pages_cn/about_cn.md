@@ -273,7 +273,7 @@ redirect_from:
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
+      <div class="image_box" style="background-image: url(/images/members/zgw.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">张国威/Guowei Zhang</a>
       </div>
