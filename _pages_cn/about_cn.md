@@ -38,6 +38,12 @@ redirect_from:
 # 📝 论文列表
 
 <table border="0">
+   <tr><span>
+    <td valign="top" width="110" id="IST25">[IST25]</td>
+    <td valign="top">Hui Xu<sup>1</sup>, Zhaodan Wang<sup>1</sup>, <b>Weiqin Zou*</b>. "A More Accurate Bug Localization Technique for Bugs with Multiple Buggy Code Files". Information and Software Technology (2025).
+    <span>[<a href="papers/IST2025.pdf">Paper</a>]</span></td>
+  </span></tr>
+  
   <tr><span>
     <td valign="top" width="110" id="SQJ24">[SQJ24]</td>
     <td valign="top">Qianshaung Meng, <b>Weiqin Zou*</b>, Biyu Cai, Jingxuan Zhang. "KeyTitle: Towards Better Bug Report Title Generation by Keywords Planning". Software Quality Journal (2024).
