@@ -42,7 +42,7 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
     <td valign="top">Hui Xu<sup>1</sup>, Zhaodan Wang<sup>1</sup>, <b>Weiqin Zou*</b>. "A More Accurate Bug Localization Technique for Bugs with Multiple Buggy Code Files". Information and Software Technology (2025).
     <span>[<a href="papers/IST2025.pdf">Paper</a>]</span></td>
   </span></tr>
-  
+
   <tr><span>
     <td valign="top" width="110" id="SQJ24">[SQJ24]</td>
     <td valign="top">Qianshaung Meng, <b>Weiqin Zou*</b>, Biyu Cai, Jingxuan Zhang. "KeyTitle: Towards Better Bug Report Title Generation by Keywords Planning". Software Quality Journal (2024).
@@ -278,7 +278,7 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-      <div class="image_box" style="background-image: url(/images/members/zgw.png);"></div>
+      <div class="image_box" style="background-image: url(/images/members/zgw.jpg);"></div>
       <div style="text-align: left;">
         <a href="https://excuse2020.github.io/zgw.github.io/" target="_blank">Guowei Zhang/张国威</a>
       </div>
@@ -307,6 +307,12 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
 ## Class of 2025
 <div class="bootstrap">
   <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/nwj.jpg);"></div>
+      <div style="text-align: left;">
+        Wenjing Niu/牛文婧
+      </div>
+    </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/sby.jpg);"></div>
       <div style="text-align: left;">

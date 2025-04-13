@@ -3,7 +3,7 @@ import pypinyin
 import argparse, mimetypes, sys, os, fileinput
 
 
-parser = argparse.ArgumentParser(description='Import a new member to the page')
+parser = argparse.ArgumentParser(description='Import a new member to the page.\ne.g. python updater.py 2025 张三 /your/photo/path/pic.jpg -n myphotoname -w your.website.com\nThe information of the member called San Zhang whose personal website is your.website.com will be added to the pages, and his photo will be renamed to myphotoname.jpg and copied to images/members.', formatter_class=argparse.RawTextHelpFormatter)
 parser.add_argument('year', type=str, help="year of the class")
 parser.add_argument('name', type=str, help="Chinese name of the member")
 parser.add_argument('photo_path', type=str, help="file path of the member's photo")
@@ -62,7 +62,7 @@ def insert_member(year: str, name: str, website: str):
     # 构造新插入的行
     eng_name = get_eng_name(name)
     line1 = '    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">'
-    line2 = f'      <div class="image_box" style="background-image: url(/images/members/{args.target_photo_filename});"></div>'
+    line2 = f'      <div class="image_box" style="background-image: url(/images/members/{file_full_name});"></div>'
     line3 = '      <div style="text-align: left;">'
     line4 = f'{eng_name}/{name}'
     line4_cn = f'{name}/{eng_name}'
