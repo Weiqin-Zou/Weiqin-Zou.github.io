@@ -42,13 +42,11 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
     <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025, Accepted).
   </span></tr>
 
-<table border="0">
   <tr><span>
     <td valign="top" width="110" id="arxiv25">[arXiv25]</td>
     <td valign="top">Xiaohan Chen, <b>Weiqin Zou*</b>, Lianyi Zhi, Qianshuang Meng, Jingxuan Zhang. "A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain". Arxiv: http://arxiv.org/abs/2505.17634.
   </span></tr>
   
-<table border="0">
   <tr><span>
     <td valign="top" width="110" id="IST25">[IST25]</td>
     <td valign="top">Hui Xu<sup>1</sup>, Zhaodan Wang<sup>1</sup>, <b>Weiqin Zou*</b>. "A More Accurate Bug Localization Technique for Bugs with Multiple Buggy Code Files". Information and Software Technology (2025).
