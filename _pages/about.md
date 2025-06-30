@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My research focuses on mining softare repositories (e.g., bug reports, GitHub data) to uncover interesting and actionable information to help improve software quality and developer productivity. I have employed and developed techniques including natural language processing, machine learning, and program analysis to transform passive software engineering data into new insights and automated tools like bug triaging and bug localization tools.
+My research focuses on mining software repositories (e.g., bug reports, GitHub data) to uncover interesting and actionable information to help improve software quality and developer productivity. I have employed and developed techniques including natural language processing, machine learning, and program analysis to transform passive software engineering data into new insights and automated tools like bug triaging and bug localization tools.
 
 I am actively recruiting graduate students, typically enrolling 2-3 each year. Please contact me if you are interested in mining software repositories, empirical software engineering, and artificial intelligence for software engineering.
 
@@ -36,6 +36,18 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
+<table border="0">
+  <tr><span>
+    <td valign="top" width="110" id="EMSE25">[EMSE25]</td>
+    <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025, Accepted).
+  </span></tr>
+
+<table border="0">
+  <tr><span>
+    <td valign="top" width="110" id="arxiv25">[arXiv25]</td>
+    <td valign="top">Xiaohan Chen, <b>Weiqin Zou*</b>, Lianyi Zhi, Qianshuang Meng, Jingxuan Zhang. "A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain". Arxiv: http://arxiv.org/abs/2505.17634.
+  </span></tr>
+  
 <table border="0">
   <tr><span>
     <td valign="top" width="110" id="IST25">[IST25]</td>
