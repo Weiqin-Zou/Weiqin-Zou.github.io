@@ -40,12 +40,12 @@ redirect_from:
   <tr><span>
     <td valign="top" width="110" id="EMSE25">[EMSE25]</td>
     <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025, Accepted).
-  </span></tr>
+    </td></span></tr>
 
   <tr><span>
     <td valign="top" width="110" id="arxiv25">[arXiv25]</td>
     <td valign="top">Xiaohan Chen, <b>Weiqin Zou*</b>, Lianyi Zhi, Qianshuang Meng, Jingxuan Zhang. "A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain". Arxiv: http://arxiv.org/abs/2505.17634.
-  </span></tr>
+    </td></span></tr>
   
    <tr><span>
     <td valign="top" width="110" id="IST25">[IST25]</td>
