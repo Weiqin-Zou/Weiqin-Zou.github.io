@@ -39,8 +39,15 @@ redirect_from:
 <table border="0">
   <tr><span>
     <td valign="top" width="110" id="EMSE25">[EMSE25]</td>
-    <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025, Accepted).
-    </td></span></tr>
+    <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025).
+      <span>[<a href="papers/EMSE2025.pdf">Paper</a>]</span></td>
+  </span></tr>
+
+  <tr><span>
+    <td valign="top" width="110" id="TOSEM25">[TOSEM25]</td>
+    <td valign="top">Hongjing Guo, Chuanqi Tao, Zhiqiu Huang, <b>Weiqin Zou</b>. "White-Box Test Input Generation for Enhancing Deep Neural Network Models through Suspicious Neuron Awareness". ACM Transactions on Software Engineering and Methodology (2025).
+      <span>[<a href="papers/TOSEM2025.pdf">Paper</a>]</span></td>
+  </span></tr>
 
   <tr><span>
     <td valign="top" width="110" id="arxiv25">[arXiv25]</td>
