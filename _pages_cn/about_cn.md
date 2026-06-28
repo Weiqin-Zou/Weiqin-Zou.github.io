@@ -38,6 +38,18 @@ redirect_from:
 # 📝 论文列表
 <table border="0">
   <tr><span>
+    <td valign="top" width="110" id="TSE26">[TSE26]</td>
+    <td valign="top">Guowei Zhang, <b>Weiqin Zou*</b>, Xiaowei Zhang, Jingxuan Zhang, Jifeng Xuan. "AdaptGen: A Problem-Adaptive Solution Template Generation Technique for Online Programming Platforms". Transactions on Software Engineering (2026).
+      <span>[<a href="papers/TSE26.pdf">Paper</a>]</span></td>
+  </span></tr>
+
+ <tr><span>
+    <td valign="top" width="110" id="IST25">[IST25]</td>
+    <td valign="top">Mengjiao Wang<sup>1</sup>, Biyu Cai<sup>1</sup>, <b>Weiqin Zou*</b>, Jingxuan Zhang. "Keys4BR: Key Sentences-based Model Fine-tuning for Better Semantic Representation of Bug Reports". Information and Software Technology (2025).
+      <span>[<a href="papers/IST25.pdf">Paper</a>]</span></td>
+  </span></tr>
+  
+  <tr><span>
     <td valign="top" width="110" id="EMSE25">[EMSE25]</td>
     <td valign="top">Biyu Cai, <b>Weiqin Zou*</b>, Qianshuang Meng, Hui Xu, Jingxuan Zhang. "KBL: A Golden Keywords-based Query Reformulation Approach for Bug Localization". Empirical Software Engineering (2025).
       <span>[<a href="papers/EMSE25.pdf">Paper</a>]</span></td>
