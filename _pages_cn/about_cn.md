@@ -345,7 +345,7 @@ redirect_from:
   </div>
 </div>
 
-## Class of 2026
+## 2026级
 <div class="bootstrap">
   <div class="row">
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
