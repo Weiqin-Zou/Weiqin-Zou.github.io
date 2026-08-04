@@ -351,7 +351,29 @@ redirect_from:
   </div>
 </div>
 
-
+## Class of 2026
+<div class="bootstrap">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/zc.jpg);"></div>
+      <div style="text-align: left;">
+        周畅/Chang Zhou
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/hwn.jpg);"></div>
+      <div style="text-align: left;">
+        胡文娜/Wenna Hu
+      </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+      <div class="image_box" style="background-image: url(/images/members/czh.jpg);"></div>
+      <div style="text-align: left;">
+       陈子豪/Zihao Chen
+      </div>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='more-about-me'></span>
 # 💬 关于我
