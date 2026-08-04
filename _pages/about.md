@@ -206,6 +206,18 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
 </table>
 
 <span class='anchor' id='members'></span>
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+<style>
+  .image_box{
+    width:150px;
+    height:200px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-origin: border-box;
+    background-size: cover;
+  }
+</style>
 # 🧑‍🎓 Members
 
 ## Class of 2021
