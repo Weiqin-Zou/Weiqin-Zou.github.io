@@ -220,17 +220,11 @@ redirect_from:
 <span class='anchor' id='academic-service'></span>
 # 🏭 学术服务
 
-- Reviewer, TSE (IEEE Transactions on Software Engineering)
-- Reviewer, IEEE Software
-- Reviewer, JSS (Journal of Systems and Software)
-- Reviewer, TR (IEEE Transactions on Reliability)
-- Reviewer, ASE 2020 (The 35th IEEE/ACM International Conference on Automated Software Engineering)
-- Reviewer, Internetware 2018 (The 10th Asia-Pacific Symposium on Internetware)
-- Reviewer, ISSRE 2018 (The 29th IEEE International Symposium on Software Reliability Engineering)
-- Reviewer, Internetware 2017 (The 9th Asia-Pacific Symposium on Internetware)
-- PC member, DSA 2019 (International Workshop on Dependable Software and Applications)
-- PC member, SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
-- PC member, TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
+- Reviewers of TSE/TOSEM/EMSE/JSS/TR/IEEE Software...
+- Reviewers of ASE/ICSME/ISSRE/Internetware...
+- PC member of DSA 2019 (International Workshop on Dependable Software and Applications)
+- PC member of SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
+- PC member of TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
 
 
 
