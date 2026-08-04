@@ -357,19 +357,19 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/zc.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://caiby0927.github.io" target="_blank">Chang Zhou/周畅</a>
+        Chang Zhou/周畅
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/hwn.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://chenxiaohan0125.github.io" target="_blank">Wenna Hu/胡文娜</a>
+        Wenna Hu/胡文娜
       </div>
     </div>
     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
       <div class="image_box" style="background-image: url(/images/members/czh.jpg);"></div>
       <div style="text-align: left;">
-        <a href="https://mengqianshuang.github.io" target="_blank">Zihao Chen/陈子豪</a>
+        Zihao Chen/陈子豪
       </div>
     </div>
   </div>
