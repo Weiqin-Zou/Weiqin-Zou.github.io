@@ -205,48 +205,7 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
   </span></tr>
 </table>
 
-
-
-<span class='anchor' id='honors-and-awards'></span>
-# 🏅 Honors and Awards
-
-- *2018*, The program B for Outstanding PhD candidate, Nanjing University
-- *2018*, Second-Class Scholarship, Nanjing University
-- *2017*, Second-Class Scholarship, Nanjing University
-- *2010*, Outstanding Graduate, Dalian University of Technology
-
-
-
-<span class='anchor' id='academic-service'></span>
-# 🏭 Academic Service
-
-- Reviewer, TSE (IEEE Transactions on Software Engineering)
-- Reviewer, IEEE Software
-- Reviewer, JSS (Journal of Systems and Software)
-- Reviewer, TR (IEEE Transactions on Reliability)
-- Reviewer, ASE 2020 (The 35th IEEE/ACM International Conference on Automated Software Engineering)
-- Reviewer, Internetware 2018 (The 10th Asia-Pacific Symposium on Internetware)
-- Reviewer, ISSRE 2018 (The 29th IEEE International Symposium on Software Reliability Engineering)
-- Reviewer, Internetware 2017 (The 9th Asia-Pacific Symposium on Internetware)
-- PC member, DSA 2019 (International Workshop on Dependable Software and Applications)
-- PC member, SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
-- PC member, TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
-
-
-
 <span class='anchor' id='members'></span>
-<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-<style>
-  .image_box{
-    width:150px;
-    height:200px;
-    display: inline-block;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-origin: border-box;
-    background-size: cover;
-  }
-</style>
 # 🧑‍🎓 Members
 
 ## Class of 2021
@@ -374,6 +333,25 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
     </div>
   </div>
 </div>
+
+
+<span class='anchor' id='academic-service'></span>
+# 🏭 Academic Service
+
+- Reviewer, TSE/TOSEM/EMSE/JSS/TR/IEEE Software...
+- Reviewer, ASE/ICSME/ISSRE/Internetware...
+- PC member, DSA 2019 (International Workshop on Dependable Software and Applications)
+- PC member, SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
+- PC member, TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
+
+
+<span class='anchor' id='honors-and-awards'></span>
+# 🏅 Honors and Awards
+
+- *2018*, The program B for Outstanding PhD candidate, Nanjing University
+- *2018*, Second-Class Scholarship, Nanjing University
+- *2017*, Second-Class Scholarship, Nanjing University
+- *2010*, Outstanding Graduate, Dalian University of Technology
 
 <span class='anchor' id='more-about-me'></span>
 # 💬 More About Me
