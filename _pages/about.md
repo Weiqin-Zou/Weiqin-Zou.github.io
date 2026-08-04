@@ -205,6 +205,28 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
   </span></tr>
 </table>
 
+
+
+<span class='anchor' id='academic-service'></span>
+# 🏭 Academic Service
+
+- Reviewers of Journals including TSE/TOSEM/EMSE/JSS/TR/IEEE Software...
+- Reviewers of Conferences including ASE/ICSME/ISSRE/Internetware...
+- PC member of DSA 2019 (International Workshop on Dependable Software and Applications)
+- PC member of SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
+- PC member of TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
+
+
+<span class='anchor' id='honors-and-awards'></span>
+# 🏅 Honors and Awards
+
+- *2018*, The program B for Outstanding PhD candidate, Nanjing University
+- *2018*, Second-Class Scholarship, Nanjing University
+- *2017*, Second-Class Scholarship, Nanjing University
+- *2010*, Outstanding Graduate, Dalian University of Technology
+
+
+  
 <span class='anchor' id='members'></span>
 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 <style>
@@ -347,23 +369,7 @@ I am actively recruiting graduate students, typically enrolling 2-3 each year. P
 </div>
 
 
-<span class='anchor' id='academic-service'></span>
-# 🏭 Academic Service
 
-- Reviewer, TSE/TOSEM/EMSE/JSS/TR/IEEE Software...
-- Reviewer, ASE/ICSME/ISSRE/Internetware...
-- PC member, DSA 2019 (International Workshop on Dependable Software and Applications)
-- PC member, SATEI 2016 (Conference on Software Analysis, Testing and Evolution for Industry)
-- PC member, TSA 2016 (The 3rd International Conference on Trustworthy Systems and Their Applications)
-
-
-<span class='anchor' id='honors-and-awards'></span>
-# 🏅 Honors and Awards
-
-- *2018*, The program B for Outstanding PhD candidate, Nanjing University
-- *2018*, Second-Class Scholarship, Nanjing University
-- *2017*, Second-Class Scholarship, Nanjing University
-- *2010*, Outstanding Graduate, Dalian University of Technology
 
 <span class='anchor' id='more-about-me'></span>
 # 💬 More About Me
